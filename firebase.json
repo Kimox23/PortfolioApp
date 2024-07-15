@@ -1,0 +1,14 @@
+{
+  "hosting": {
+    "site": "sampleproject-cc0e1-456ce",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}
